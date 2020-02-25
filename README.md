@@ -1,6 +1,0 @@
-
-- # Installation
-    - ### Local
-    - ### Docker
-   
-
