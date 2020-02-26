@@ -7,9 +7,9 @@ ___
 
 ## Solids4FOAM Documetation
 
-- ### Installation
+- ### [Installation](https://wpzegeo.github.io/Solids4Foam-Guide-2.0/README/Installation)
 
-- ### Overview
+- ### [Overview](https://wpzegeo.github.io/Solids4Foam-Guide-2.0/README/Overview)
 
 - ### My First Solids Case
     - #### Overview
