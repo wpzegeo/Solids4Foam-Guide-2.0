@@ -28,3 +28,4 @@
         - #### Structure
    
 ![test](Picture1.png)
+![test](https://github.com/wpzegeo/Solids4Foam-Guide-2.0/blob/gh-pages/Picture1.jpg)
